@@ -1,4 +1,7 @@
 html, body {
+  margin: 5px;
+  padding-bottom: 70px;
+  background-color: darkgray; !important;
   font-family: 'Lato', sans-serif;
 }
 
