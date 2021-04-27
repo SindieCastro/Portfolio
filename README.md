@@ -6,7 +6,7 @@ Hello World! My name is Sindie Castro. I'm very excited to introduce you to my d
 
 ## Other Interests
 
-When I am not analysing data, I'm either dancing, binge watching Netflix, or spending time with my family.
+When I am not analyzing data, I'm either dancing, binge watching Netflix, or spending time with my family.
 
 
 ![dancing](https://user-images.githubusercontent.com/78306719/116296780-3c948f00-a760-11eb-961a-fcf5c277c7fc.jpg)
