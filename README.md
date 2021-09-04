@@ -2,8 +2,4 @@
 
 ## Welcome
 
-My name is Sindie Castro. Thank you exploring my projects.
-
-## Expand My Skills
-
-I'm open to collaborating on projects or helping others with their projects. Let me know how I can help. 
+Data analyst with natural leadership qualities and a background in Education, Prevention Programs, and Government Policy. Strong critical thinker in improving documentation and reporting. Completed a 24-week certificate program in Data Analytics and Visualization. 
