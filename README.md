@@ -25,7 +25,6 @@ Data analyst with natural leadership qualities and a background in Education, Pr
 •	Data Visualization
 •	Government Operations/Policies	•	Database Management 
 •	Technology Integration
-
 •	Education 	•	Leadership
 •	Report writing
 •	Creating brochures
