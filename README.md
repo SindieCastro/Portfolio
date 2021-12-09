@@ -28,3 +28,7 @@ Data Analyst with natural leadership qualities and a background in Education, Pr
 •	Education 	•	Leadership
 •	Report writing
 •	Creating brochures
+
+<a href="https://github.com/j89livingston">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SindieCastro&show_icons=true&theme=radical"/>
+</a>
