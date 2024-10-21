@@ -2,7 +2,7 @@
 
 <h1><p> About Me </p></h1>
 
-Data Analyst with natural leadership qualities and a background in Education, Prevention Programs, and Government Policy. Attentive to visualization details and a strong critical thinker evident in improving documentation and reporting. Completed a 24-week certificate program in Data Analytics and Visualization. Recently led and coordinated a project in a team of five using PgAdmin, Heroku, Python, Google slides, Jupyter Notebook, and Tableau for visualization. Great project management skills by working concurrently on VBA projects, Excel dashboards, creating brochures, and completing quarterly reports. A problem solver as shown in my initiative to create a system to document and analyze daily calls. I have viewed data from a program’s perspective for 15 years in education, government, and the nonprofit sector and I understand the importance of utilizing data to document and solve a problem, visualize results, and highlight opportunities for improvements. I am pursuing a career in data analytics to leverage my technical and project management skills as well as attention to detail to help your business view data from a program’s perspective to support detailed and efficient analysis and visualization.
+I have been working as a Data Analyst for three years; One with the Department of Children and Families and two years with DISC Village Inc. I create and run SQL queries on a daily basis. I created an inventroy database. I am currently using Razor Pages to create a website to view reports and services. I use Python to create reports and run scripts to analyze data. 
 
 <h1> <p align="center"> Technology Stack </p></h1>
 
